@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">抽卡玄学</string>
+    <string name="almanac">良辰吉日</string>
+    <string name="horoscope">星座运势</string>
+    <string name="draw">模拟抽卡</string>
+    <string name="forecast">天气预报</string>
+    <string name="play_o">一次抽卡</string>
+    <string name="play_e">十一连抽卡</string>
+    <string name="luckiness">恭喜</string>
+    <string name="unluckiness">可惜</string>
+    <string name="aries">白羊座</string>
+    <string name="taurus">金牛座</string>
+    <string name="gemini">双子座</string>
+    <string name="cancer">巨蟹座</string>
+    <string name="leo">狮子座</string>
+    <string name="virgo">处女座</string>
+    <string name="libra">天秤座</string>
+    <string name="scorpio">天蝎座</string>
+    <string name="sagittarius">射手座</string>
+    <string name="capricorn">摩羯座</string>
+    <string name="aquarius">水瓶座</string>
+    <string name="pisces">双鱼座</string>
+    <string name="today">今日运势</string>
+    <string name="tod">今</string>
+</resources>
